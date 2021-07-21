@@ -1,3 +1,3 @@
-# Relógio Analógico
+# Relógio
  
 Projeto de Relógio em Analógico e Digital com Data e tema noturno. 
