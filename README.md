@@ -2,10 +2,11 @@
  
 <p> 
 Projeto de Relógio com:
-- Analógico;
-- Digital;
-- Data e 
-- Tema noturno. 
+
+ - Analógico
+ - Digital
+ - Data e 
+ - Tema noturno.
 </p>
  
  <div>
